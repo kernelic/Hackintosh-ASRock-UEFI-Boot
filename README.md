@@ -27,7 +27,7 @@ brew install bootoption
 brew install bootoption
 ```
 
-*[Mount EFI partition](https://github.com/headkaze/EFI-Agent), and write to terminal:
+[Mount EFI partition](https://github.com/headkaze/EFI-Agent), and write to terminal:
 
 * for Clover:
 ```
@@ -43,7 +43,7 @@ Reboot and open UEFI bios. Select “macOS EFI” in the boot priority menu.
 
 Done.
 
-##Credits:
+## Credits:
 * [bootoption](https://github.com/bootoption)
 * [Homebrew](https://github.com/homebrew)
 * [EFI Agent](https://github.com/headkaze/EFI-Agent)
